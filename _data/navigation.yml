@@ -1,0 +1,26 @@
+main:
+  - title: Education
+    url: /education/
+    description: Education
+  - title: Projects
+    url: /projects/
+    description: Projects
+  - title: Work Experience
+    url: /work/
+    description: Work Experience
+  - title: Travel
+    url: /travel/
+    description: Miss you
+  - title: About
+    url: /about/
+    description: About me
+
+#docs:
+  #- title: Projects
+     #children:
+      # - title:
+      #   url:
+  #- title:
+  #  children:
+  #    - title:
+  #      url:
