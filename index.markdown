@@ -7,7 +7,5 @@ author_profile: true
 sidebar:
   - title: Contact
     text: >-
-      seyun0114kim@gmail.com
-
-      kim79@cooper.edu 
+      seyun.sy.kim@gmail.com 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Review of A Generalist Learner for Multifacted Medical Image Interpretation
-layout: single
+layout: post
 ---
 This post is a review of the paper A Generalist Learner for Multifacted Medical Image Interpretation by blabla
 

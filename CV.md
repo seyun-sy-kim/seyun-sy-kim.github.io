@@ -34,7 +34,7 @@ detector for high dimensional data.
 - Innovator Merit Scholarship and Half Tuition Scholarship, The Cooper Union, New York, NY
 - New York Times Writing Contest Honorable Mention
 
-<h2>PUBLICATIONS</h2>
+<h2>Publications</h2>
 
 - Deep Learning based Real Time Seizure Detection and Multi Seizure Classification on Pediatric EEG [[pdf]](https://www.medrxiv.org/content/10.1101/2024.11.25.24317933v1.full)
 - Real Time Seizure Detection Using EEG: A Comprehensive Comparison of Recent Approaches Under a Realistic Setting

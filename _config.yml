@@ -33,7 +33,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  seyunkim0114
 
-repository: seyunkim0114/seyunkim0114.github.io
+repository: seyun-sy-kim/seyun-sy-kim.github.io
 
 # Build settings
 #theme: "minimal-mistakes-jekyll"
@@ -68,6 +68,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/seyunkim0114"
+    - label: "LinkedIn"
+      icon: fa-brands fa-linkedin
+      url: https://www.linkedin.com/in/seyun-kim-b669771b5/
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/mmistakes"
