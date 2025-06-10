@@ -4,6 +4,10 @@ layout: single
 ---
 <iframe src="https://1drv.ms/p/s!AuLEAGq4CoXh20B5jlyUJrOZjRPE?embed=1&amp;em=2&amp;wdAr=1.3333333333333333" width="476px" height="481px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
+*This post is a review of research project led and conducted by me regarding tracking trend changes in streaming tensor data using autoencoder*
+
+*#Autoencoder #DeepLearning # TensorDecomposition #ConceptDrift #TrendDetection #tSNE #HighDimensionalDataAnalysis* #PCA #DimensionReduction 
+
 Tensor is a multi-dimensional array that can be useful for storing data with variety of features. However, as the size and dimension of a tensor grows, the harder it becomes to interpret and extract meaningful information from the noisy bulk of data. To address this issue, many researches are being done to track trend changes in tensors. This post will introduce a new attempt to captures trend changes in tensors using autoencoder.
 
 Autoencoder is a type of neural network trained to copy its input to its output. In detail, the encoder network of autoencoder encodes the given input to a lower dimensional feature vector (although does not always have be a vector). During this process, encoder learns to compress the input so that the encoded vector only contains important information. The decoder network, then, takes the encoded vector as its input and tries to reconstruct the original input of autoencoder. Through this encoding and decoding process, the autoencoder network learns to extract the essence of the input data. The proposed method for theme tracking is based on this very ability of autoencoder.
